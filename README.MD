@@ -1,3 +1,7 @@
 # Flexbox Exercise
+A realty site demonstrating the use of flexbox. View the live version [here](https://aekari.github.io/ApolloRealty-Flexbox/).
 
-This is an exercise to help learn the basic CSS properties and values for flexbox.
+## Features
+- Mobile-friendly design/ flexbox css
+- Google fonts
+
